@@ -1,7 +1,0 @@
-streamlit
-tensorflow
-keras
-numpy
-pandas
-folium
-streamlit-folium
