@@ -3,4 +3,5 @@ tensorflow
 keras
 numpy
 pandas
-streamlit_folium
+folium
+streamlit-folium
